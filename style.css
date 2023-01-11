@@ -1,0 +1,26 @@
+h2{
+  text-align: center;
+}
+div {
+  display:flex;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  float: left;
+  /* display: flex; */
+  /* text-align: center; */
+  border: 2px solid;
+  /* vertical-align: auto; */
+  height:100px;
+  display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.part1 {
+  width: 70%;
+}
+.part2 {
+  width: 30%;
+}
